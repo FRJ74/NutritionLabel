@@ -1,3 +1,10 @@
+/* Global Setting */
+html {
+    font-size: 16px;
+  }
+
+  
+
 /* Main styles */
 body{
     font-family: "Open Sans", sans-serif;
@@ -10,7 +17,3 @@ body{
     padding: 0 7px;
 }
 
-/* Setting global font size */
-html {
-    font-size: 16px;
-  }
