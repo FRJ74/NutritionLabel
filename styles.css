@@ -50,4 +50,9 @@ font-weight: 800;
 
 .large, .medium {
     background: black;
+    border: 0;
+}
+
+.small-text {
+    font-size: 0.85rem;
 }
