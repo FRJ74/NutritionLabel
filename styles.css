@@ -11,6 +11,10 @@ html {
 /* Main styles */
 body{
     font-family: "Open Sans", sans-serif;
+    background-image: url(Can.png);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
 }
 
 header h1 {
@@ -29,7 +33,7 @@ p {
 .label {
     border: 2px solid black;
     width: 270px;
-    margin: 20px auto;
+    margin: 600px auto 20px;
     padding: 0 7px;
 }
 
@@ -106,6 +110,9 @@ font-weight: 800;
     padding: 0 8px;
     text-indent: -8px;
   }
+
+ 
+
 
 
  
